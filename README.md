@@ -10,6 +10,7 @@ Here is a brief summary of what I plan on including in this project.
 ### Built With:
 * [HTMX](https://vuejs.org/)
 * [Alpine.js](https://vuejs.org/)
+* [dotnet]()
 * [C#](https://github.com/go-chi/chi)
 * [PostgreSQL](https://www.mongodb.com/cloud/atlas)
-* [Google Cloud Services](https://cloud.google.com/)
+* [Azure](https://cloud.google.com/)
