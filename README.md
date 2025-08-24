@@ -1,0 +1,15 @@
+# Attendance Tracker
+
+This is the second major project I am creating for Adapt community Network. Unlike my previous project however, this one will be significantly more "complete", as it will include both unit testing and integration testing, dockerization, and systems design manual to outline the entire project from why I chose certain architecture, the design of my database tables, etc.
+
+Here is a brief summary of what I plan on including in this project.
+
+* Allow coworkers to add classes, and track which students attend which classes.
+* Convert tables to pre-styled excel sheets
+
+### Built With:
+* [HTMX](https://vuejs.org/)
+* [Alpine.js](https://vuejs.org/)
+* [C#](https://github.com/go-chi/chi)
+* [PostgreSQL](https://www.mongodb.com/cloud/atlas)
+* [Google Cloud Services](https://cloud.google.com/)
