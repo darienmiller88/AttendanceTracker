@@ -25,3 +25,8 @@ C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\ob
 C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\AttendanceTrackerApp.pdb
 C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\AttendanceTrackerApp.genruntimeconfig.cache
 C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\ref\AttendanceTrackerApp.dll
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\bin\Debug\net9.0\AttendanceTrackerApp.staticwebassets.runtime.json
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\AttendanceTrackerApp.RazorAssemblyInfo.cache
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\AttendanceTrackerApp.RazorAssemblyInfo.cs
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\AttendanceTrackerApp.sourcelink.json
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\compressed\tcb3x0rkf1-5ipweew5fc.gz
