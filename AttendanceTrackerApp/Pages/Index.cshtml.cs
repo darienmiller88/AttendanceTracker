@@ -5,6 +5,7 @@ namespace AttendanceTrackerApp.Pages;
 public class IndexModel : PageModel
 {
     private readonly ILogger<IndexModel> logger;
+    public string Message { get; set; } = "";
 
     public IndexModel(ILogger<IndexModel> logger)
     {
@@ -15,6 +16,6 @@ public class IndexModel : PageModel
 
     public void OnGet()
     {
-        
+        Message = "I might be fucked forever";
     }
 }

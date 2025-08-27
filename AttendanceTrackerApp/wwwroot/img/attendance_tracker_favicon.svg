@@ -1,0 +1,14 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="32" height="32" fill="#4a90e2" rx="6"/>
+  
+  <!-- Letter A -->
+  <path d="M 8 24 L 10.5 18 L 13.5 18 L 16 24 L 14 24 L 13.2 22 L 10.8 22 L 10 24 Z M 11.4 20 L 12.6 20 L 12 18.5 Z" fill="white" stroke="none"/>
+  
+  <!-- Letter T -->
+  <rect x="18" y="12" width="6" height="2" fill="white"/>
+  <rect x="20" y="12" width="2" height="12" fill="white"/>
+  
+  <!-- Small checkmark accent -->
+  <path d="M 24 8 L 26 10 L 29 7" stroke="white" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

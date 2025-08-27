@@ -1,8 +1,11 @@
 @page
+
+@* connects this page to the IndexModel class *@
 @model IndexModel
 
 <div>
-    Hello world!
+    @* Allows the html file to access the fields of the IndexModel class *@
+    @Model.Message
 </div>
 
 <h1>
