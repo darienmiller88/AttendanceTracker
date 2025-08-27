@@ -14,7 +14,7 @@ app.Use(async (context, next) =>
     await next();
     stopwatch.Stop();
 
-    Console.WriteLine($"");
+    Console.WriteLine($"request method {context.Request.Method} {stopwatch.ElapsedMilliseconds} ms");
 });
 
 app.UseStaticFiles();
