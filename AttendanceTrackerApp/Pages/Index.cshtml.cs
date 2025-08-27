@@ -16,6 +16,6 @@ public class IndexModel : PageModel
 
     public void OnGet()
     {
-        Message = "I might be fucked forever";
+        Message = "Test message";
     }
 }

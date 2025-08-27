@@ -7,8 +7,10 @@ Here is a brief summary of what I plan on including in this project.
 * Allow coworkers to add classes, and track which students attend which classes.
 * Convert tables to pre-styled excel sheets
 
+Visit the link here: attendancetracker-f3hef7fxfkd5aygd.canadacentral-01.azurewebsites.net
+
 ### Built With:
-* [HTMX](https://vuejs.org/)
+* [HTMX](https://htmx.org/)
 * [Alpine.js](https://vuejs.org/)
 * [dotnet]()
 * [C#](https://github.com/go-chi/chi)
