@@ -15,4 +15,4 @@ Visit the link here: attendancetracker-f3hef7fxfkd5aygd.canadacentral-01.azurewe
 * [dotnet](https://dotnet.microsoft.com/en-us/)
 * [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 * [PostgreSQL](https://www.postgresql.org/)
-* [Azure](https://cloud.google.com/)
+* [Azure](https://azure.microsoft.com/en-us/)
