@@ -12,7 +12,7 @@ Visit the link here: attendancetracker-f3hef7fxfkd5aygd.canadacentral-01.azurewe
 ### Built With:
 * [HTMX](https://htmx.org/)
 * [Alpine.js](https://alpinejs.dev/)
-* [dotnet]()
+* [dotnet](https://dotnet.microsoft.com/en-us/)
 * [C#](https://github.com/go-chi/chi)
 * [PostgreSQL](https://www.mongodb.com/cloud/atlas)
 * [Azure](https://cloud.google.com/)
