@@ -13,6 +13,6 @@ Visit the link here: attendancetracker-f3hef7fxfkd5aygd.canadacentral-01.azurewe
 * [HTMX](https://htmx.org/)
 * [Alpine.js](https://alpinejs.dev/)
 * [dotnet](https://dotnet.microsoft.com/en-us/)
-* [C#](https://github.com/go-chi/chi)
+* [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 * [PostgreSQL](https://www.mongodb.com/cloud/atlas)
 * [Azure](https://cloud.google.com/)
