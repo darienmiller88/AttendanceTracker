@@ -6,7 +6,7 @@ builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
-app.Use(async (context, next) =>
+app.Use(async (HttpContext context, Func<Task> next) =>
 {
     Stopwatch stopwatch = new Stopwatch();
 
@@ -14,7 +14,7 @@ app.Use(async (context, next) =>
     await next();
     stopwatch.Stop();
 
-    Console.WriteLine($"request method {context.Request.Method} {stopwatch.ElapsedMilliseconds} ms");
+    Console.WriteLine($"request: {context.Request.Method} {stopwatch.ElapsedMilliseconds} ms");
 });
 
 app.UseStaticFiles();
