@@ -1,0 +1,7 @@
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\out\AttendanceTrackerApp.exe
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\out\appsettings.Development.json
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\out\appsettings.json
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\out\AttendanceTrackerApp.dll
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\out\AttendanceTrackerApp.deps.json
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\out\AttendanceTrackerApp.runtimeconfig.json
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\out\AttendanceTrackerApp.pdb
