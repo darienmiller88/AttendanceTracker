@@ -10,8 +10,6 @@ public class IndexModel : PageModel
     public IndexModel(ILogger<IndexModel> logger)
     {
         this.logger = logger;
-
-        Console.WriteLine(logger);
     }
 
     public void OnGet()

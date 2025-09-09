@@ -12,7 +12,8 @@ Visit the link here: https://attendancetracker-f3hef7fxfkd5aygd.canadacentral-01
 ### Built With:
 * [HTMX](https://htmx.org/)
 * [Alpine.js](https://alpinejs.dev/)
-* [dotnet](https://dotnet.microsoft.com/en-us/)
+* [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet)
 * [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
 * [PostgreSQL](https://www.postgresql.org/)
 * [Azure](https://azure.microsoft.com/en-us/)
+* [Cloudinary](https://cloudinary.com/)
