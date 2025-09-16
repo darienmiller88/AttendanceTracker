@@ -16,4 +16,9 @@ public class IndexModel : PageModel
     {
         Message = "Test message";
     }
+
+    public void OnPost()
+    {
+        
+    }
 }
