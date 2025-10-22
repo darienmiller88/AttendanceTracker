@@ -1,0 +1,15 @@
+.sc-page-wrapper{
+    width: 100vw;
+    height: 100vh;
+    background-color: #083F52;
+}
+
+.student-profiles-wrapper{
+    border: 2px solid black;
+    margin: auto;
+}
+
+.student-profile{
+    border: 2px solid wheat;
+    border-radius: 5px;
+}
