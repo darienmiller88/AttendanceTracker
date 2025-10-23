@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace AttendanceTrackerApp.Pages;
@@ -5,6 +6,8 @@ namespace AttendanceTrackerApp.Pages;
 public class IndexModel : PageModel
 {
     private readonly ILogger<IndexModel> logger;
+
+    [BindProperty]
     public string Message { get; set; } = "";
 
     public IndexModel(ILogger<IndexModel> logger)

@@ -7,11 +7,13 @@
     <link rel="stylesheet" href="~/css/index.css"/>
 }
 
-<div>
-    @* Allows the html file to access the fields of the IndexModel class *@
-    @Model.Message
-</div>
+<div class="index-page-wrapper">
+    <div class="index-message">
+        @* Allows the html file to access the fields of the IndexModel class *@
+        @Model.Message
+    </div>
 
-<h1>
-    I might be redeemable actually if a miracle happens
-</h1>
+    <h1>
+        I might be redeemable actually if a miracle happens
+    </h1>
+</div>

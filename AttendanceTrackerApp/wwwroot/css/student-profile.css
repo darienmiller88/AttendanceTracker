@@ -1,11 +1,20 @@
 .sc-page-wrapper{
-    width: 100vw;
     height: 100vh;
+    width: 100vw;
+    position: fixed;
     background-color: #083F52;
+}
+
+.sc-page-wrapper .student-profile-title{
+    color: white;
+    font-size: 60px;
+    margin: 30px;
+    text-align: center;
 }
 
 .student-profiles-wrapper{
     border: 2px solid black;
+    width: 75vw;
     margin: auto;
 }
 
