@@ -8,12 +8,17 @@
 .sc-page-wrapper .student-profile-title{
     color: white;
     font-size: 60px;
+    font-weight: 700;
     margin: 30px;
     text-align: center;
 }
 
 .student-profiles-wrapper{
-    border: 2px solid black;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+
+    border: 2px solid red;
     width: 75vw;
     margin: auto;
 }
@@ -21,4 +26,10 @@
 .student-profile{
     border: 2px solid wheat;
     border-radius: 5px;
+}
+
+.student-profile .profile-picture img{
+    width: 60px;
+    height: auto;
+    border-radius: 50%;
 }

@@ -29,6 +29,8 @@ C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\bi
 C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\AttendanceTrackerApp.RazorAssemblyInfo.cache
 C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\AttendanceTrackerApp.RazorAssemblyInfo.cs
 C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\AttendanceTrackerApp.sourcelink.json
-C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\compressed\tcb3x0rkf1-5ipweew5fc.gz
 C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\compressed\6dxm63vvt8-seyjyc52tf.gz
 C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\compressed\7q0pl45owh-napypytxjn.gz
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\compressed\z2wik9b815-rfr841hlob.gz
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\compressed\tcb3x0rkf1-dpe2t8hi1h.gz
+C:\Users\darie\Desktop\csharp projects\AttendanceTracker\AttendanceTrackerApp\obj\Debug\net9.0\compressed\jgsl2dpx7u-x6tes2teqw.gz
