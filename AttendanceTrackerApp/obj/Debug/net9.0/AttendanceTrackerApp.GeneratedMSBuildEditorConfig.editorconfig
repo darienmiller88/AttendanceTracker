@@ -24,8 +24,8 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTGFuZGluZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/darie/Desktop/csharp projects/AttendanceTracker/AttendanceTrackerApp/Pages/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+[C:/Users/darie/Desktop/csharp projects/AttendanceTracker/AttendanceTrackerApp/Pages/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/darie/Desktop/csharp projects/AttendanceTracker/AttendanceTrackerApp/Pages/Shared/_Layout.cshtml]
