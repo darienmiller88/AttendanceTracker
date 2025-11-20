@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AttendanceTrackerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9977cfc11b4224b00699a5ef0a54f6fdcf9fc162")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63a0c48f5d15b572ca8efa87f92bb73cdd2449f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("AttendanceTrackerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AttendanceTrackerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
